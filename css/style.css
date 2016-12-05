@@ -1,3 +1,20 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Gist
+ @fatimaberazi
+ Watch 20
+  Star 0
+ Fork 15 learn-co-students/adding-responsive-features-re-coded-000
+ Code  Issues 0  Pull requests 11  Projects 0  Pulse  Graphs
+Branch: master Find file Copy pathadding-responsive-features-re-coded-000/css/style.css
+933b914  on Sep 4, 2015
+@jongrover jongrover first commit compartmentalized
+1 contributor
+RawBlameHistory
+359 lines (288 sloc)  7.88 KB
 @import url(http://fonts.googleapis.com/css?family=Elsie+Swash+Caps:400,900);
 @import url(http://fonts.googleapis.com/css?family=Clicker+Script);
 
@@ -19,7 +36,7 @@ li {
   margin-left: 20px;
 }
 
-p, address { 
+p, address {
   font-size: 1em; /* 16px, ?pt, 100%, 1em */
   line-height: 1.5em;
 }
@@ -347,12 +364,9 @@ section {
 /*////////// FOOTER //////////*/
 
 footer {
-  text-align: center; 
+  text-align: center;
   font-size: 0.75em;
   padding: 10px;
   background: #eee;
-  border-top: 1px solid; 
+  border-top: 1px solid;
 }
-
-
-
